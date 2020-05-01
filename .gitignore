@@ -1,2 +1,5 @@
-# IPython
-*.ipynb
+scratch.py
+.vscode
+__*
+*.ipynb*
+secrets.py
